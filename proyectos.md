@@ -4,8 +4,6 @@ En esta página encontrarás diferentes proyectos desarrollados por diferentes m
 
 ## Equipo - be-chotas
 
-
-
 {% embed url="https://github.com/vanessamarely/be-me/tree/main/projects/be-chotas" %}
 
 ## Equipo - inRoute
@@ -16,8 +14,8 @@ En esta página encontrarás diferentes proyectos desarrollados por diferentes m
 
 {% embed url="https://luisaramicar11.github.io/SlidesEnrutamiento/" %}
 
+{% embed url="https://github.com/luisaramicar11/Marvel" %}
+
 ## Equipo - reactivos
-
-
 
 {% embed url="https://github.com/vanessamarely/be-me/tree/main/projects/reactivos" %}
